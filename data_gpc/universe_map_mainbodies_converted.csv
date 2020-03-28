@@ -1,0 +1,138 @@
+name,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,objid,date,ra,dec,dist,type,subtype,mapp,mabs,importance,commentary,teff_val,mass
+Sun,0,0,0,0,,1000-01-01,0.29053,0.12552,4.83112823775e-15,Mainbody,Star,-26.75,-21.74153414,1,"The Earth’s local star.
+
+Distance from Earth; 1.50x10^(11)m
+
+Star Type; Yellow Dwarf
+
+Mass; 1.99x10^(30) kg
+
+Diameter; 1.39x10^(9)m
+
+Surface Temperature; 5500c",,
+Mercury,1,1,1,1,,1000-01-01,13.95506,9.32947,3.7113843277e-15,Mainbody,Planet,0.91,6.4910290470000005,1,"Mercury is the closest planet to the Sun and is also the smallest of the eight planets in our solar system.
+
+Distance from Earth; 9.1x10^(10)m
+
+Mass; 3.3x10^(20)kg
+
+Diameter; 4.88x10^(6)m
+
+Known moons; None
+
+Orbit Distance; 5.79x10^(10)m
+
+Orbit Period; 87.97 Earth days
+
+Surface Temperature; -173-427c",,
+Venus,2,2,2,2,,1000-01-01,16.42481,6.03808,7.821760152200002e-15,Mainbody,Planet,-3.85,0.11218622,1,"Venus is the second planet from the Sun and the third brightest object in Earth’s sky after the Sun and Moon.
+
+Distance from Earth; 4.14x10^(10)m
+
+Mass; 4.87x10^(24)m
+
+Diameter; 1.21x10^(7)m
+
+Known moons; None
+
+Orbit Distance; 1.08x10^(11)m
+
+Orbit Period; 224.7 Earth days
+
+Surface Temperature; 462c",,
+Mars,3,3,3,3,,1000-01-01,271.93585,-23.51776,5.861396937350001e-15,Mainbody,Planet,0.48,5.068703027,1,"Mars is the fourth planet from the Sun and the last of the terrestrial planets
+.
+Distance from Earth; 7.8 x 10^(10)m
+
+Mass; 6.41x10^(23)kg
+
+Equatorial Diameter; 6.81x10^(6)m
+
+Known moons; 2
+
+Orbit Distance; 2.27x10^(11)m
+
+Orbit Period; 686.98 Earth days
+
+Surface Temperature; -87- -5c",,
+Jupiter,4,4,4,4,,1000-01-01,230.66597,-17.26276,2.3055869564150002e-14,Mainbody,Planet,-2.3,-0.6851988390000001,1,"Jupiter is the fifth planet from the Sun and the largest of the solar system planets.
+
+Distance from Earth; 6.28x10^(11)m
+
+Mass; 1.90x10^(27)kg
+
+Equatorial Diameter; 1.42x10^(8)m
+
+Known moons; 67
+
+Known rings; 4
+
+Orbit distance; 7.78x10^(11)m
+
+Orbit Period; 4,332.82 Earth days
+
+Surface Temperature; -108c",,
+Saturn,5,5,5,5,,1000-01-01,278.93972,-22.30134,4.9251204860000006e-14,Mainbody,Planet,1.42,1.3866243969999998,1,"Saturn is the sixth planet from the Sun and the second largest by mass.
+
+Distance from Earth; 1.28x10^(12)m
+
+Mass; 5.68x10^(26)kg
+
+Equatorial Diameter; 1.20x10^(8)m
+
+Known moons; 62
+
+Orbit Distance; 1.43x10^(12)m
+
+Orbit Period; 10,755.7 Earth days
+
+Surface Temperature; -139c",,
+Uranus,6,6,6,6,,1781-01-01,24.92552,9.78419,1.0079189747050003e-13,Mainbody,Planet,5.9,4.311580588,1,"Uranus, named after the father of the Roman god Saturn, is the seventh planet in the solar system and third of the gas giants.
+
+Distance from Earth; 2.72x10^(12)m
+
+Mass; 8.68x10^(25) kg
+
+Equatorial Diameter; 5.11x10^(7)m
+
+Known Moons; 27
+
+Orbit Distance; 2.87x10^(12)m
+
+Orbit Period; 30,687.15 Earth days
+
+Surface Temperature; -197c",,
+Neptune,7,7,7,7,,1846-01-01,345.90484,-7.01306,1.49862604294e-13,Mainbody,Planet,7.96,5.510242316,1,"Neptune is the eighth planet from the Sun and the last of the known planets.
+
+Distance from Earth; 4.35x10^(12)m
+
+Mass; 1.02x10^(26)kg
+
+Equatorial Diameter; 4.95x10^(7)m
+
+Known Moons; 14
+
+Orbit Distance; 4.5x10^(12)m
+
+Orbit Period; 60,190.03 Earth days
+
+Surface Temperature; -201c",,
+Eris,8,8,8,8,,2003-01-01,25.62004,-2.22865,4.706161345190001e-13,Mainbody,Dwarf Planet,18.81,13.87537463,0, ,,
+Haumea,9,9,9,9,,2003-01-01,213.61326,16.86818,2.410795271985e-13,Mainbody,Dwarf Planet,17.32,13.83790704,0, ,,
+Makemake,10,10,10,10,,2005-01-01,195.54116,24.78921,2.50460709684e-13,Mainbody,Dwarf Planet,17.07,13.50501066,0, ,,
+Ceres,11,11,11,11,,1801-01-01,130.43201000000002,31.71763,9.09791519455e-15,Mainbody,Dwarf Planet,7.75,11.38399927,0, ,,
+Pluto,12,12,12,12,,1930-01-01,292.41361,-21.49762,1.6423003559849996e-13,Mainbody,Dwarf Planet,14.34,11.69144576,1,"Pluto, discovered in 1930, used to be classified as a planet but was relegated to dwarf planet in 2006.
+
+Distance from Earth; 7.5 x10^(12)m
+
+Mass; 1.31x10^(22)kg
+
+Equatorial Diameter; 2.37x10^(6)m
+
+Known Moon; 5
+
+Orbit Distance; 5.87x10^(12)m
+
+Orbit Period; 247.92 Earth days
+
+Surface Temperature; -229c",,
