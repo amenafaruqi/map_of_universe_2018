@@ -1,7 +1,7 @@
 # MoU2018
 
 ### 3D Map of the Universe - Instructions 
-#### By Amena Faruqi 
+#### By Amena Faruqi (Undergraduate Research Opportunities Programme at Imperial College London)
 
 
 3D_MoU -> plots the entirety of any database(s) given, for larger/many databases this may take some time.
