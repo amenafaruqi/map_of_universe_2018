@@ -1,4 +1,4 @@
-# MoU2018
+# Map of the Universe 2018
 
 ### 3D Map of the Universe - Instructions 
 #### By Amena Faruqi (Undergraduate Research Opportunities Programme at Imperial College London)
